@@ -9,13 +9,13 @@ That's pretty much it. Make sure to follow img_pipe's setup instructions thoroug
 ### Example Outputs ###
 
 #### `figure.py` ####
-https://github.com/grtkrtf/esm_plotting/blob/master/images/figure.png?raw=true
+![figure.py output](https://github.com/grtkrtf/esm_plotting/blob/master/images/figure.png?raw=true)
 
 #### `plot_all_elecs.py` ####
-https://github.com/grtkrtf/esm_plotting/blob/master/images/plot_all_elecs.png?raw=true
+![plot_all_elecs.py output](https://github.com/grtkrtf/esm_plotting/blob/master/images/plot_all_elecs.png?raw=true)
 
 #### `plot_all_elecs_roi.py` ####
-https://github.com/grtkrtf/esm_plotting/blob/master/images/plot_all_elecs_roi.png?raw=true
+![plot_all_elecs_roi.py output](https://github.com/grtkrtf/esm_plotting/blob/master/images/plot_all_elecs_roi.png?raw=true)
 
 #### `plot_brain.py` ####
-https://github.com/grtkrtf/esm_plotting/blob/master/images/plot_brain.png?raw=true
+![plot_brain.py output](https://github.com/grtkrtf/esm_plotting/blob/master/images/plot_brain.png?raw=true)
