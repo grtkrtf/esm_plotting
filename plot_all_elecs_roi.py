@@ -1,4 +1,4 @@
-# Script for generating a figure with electrodes on it.
+# Script for generating a figure with electrodes and ROIs on it.
 # Similar to figure.py but modular -- allows plotting of elecs from any subject.
 # Don't forget to mount dura.
 
