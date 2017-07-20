@@ -1,12 +1,13 @@
+# Script for generating a figure with electrodes on it.
+# Similar to figure.py but modular -- allows plotting of elecs from any subject.
+# Don't forget to mount dura.
+
 import os
 import img_pipe
 from mayavi import mlab
 import scipy.io
 import numpy as np
 
-print("Don't forget to mount dura before running this script ... otherwise it will not work.")
-
-# syntax subjs: https://docs.google.com/spreadsheets/d/1JlK0eCOr38tjnRd-4WuDI0OaQ78V866hZASzjuwEvoo/edit?usp=sharing
 subjs = ['A208','A223','EC106','A232','A235','A268','A281','EC145']
 # EC106 = A231
 # EC145 = A268_2

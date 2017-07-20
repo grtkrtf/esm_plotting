@@ -1,3 +1,5 @@
+# Script for generating a figure with electrodes and ROIs on it.
+# Don't forget to mount dura.
 # run with pythonw
 
 import os
@@ -6,7 +8,6 @@ import numpy as np
 import scipy.io
 import img_pipe
 
-# syntax subjs: https://docs.google.com/spreadsheets/d/1JlK0eCOr38tjnRd-4WuDI0OaQ78V866hZASzjuwEvoo/edit?usp=sharing
 subjs = ['A208','A223','EC106','A232','A235','A268','A281','EC145','A293']
 # EC106 = A231
 # EC145 = A268_2

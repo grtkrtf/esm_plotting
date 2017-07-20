@@ -1,3 +1,6 @@
+# Script for simple viewing of a brain.
+# Don't forget to mount dura.
+
 import os
 import img_pipe
 from mayavi import mlab
