@@ -7,3 +7,15 @@ Written by Garret Kurteff at the Laboratory of Dr. Edward Chang, UC San Francisc
 That's pretty much it. Make sure to follow img_pipe's setup instructions thoroughly.
 
 ### Example Outputs ###
+
+#### `figure.py` ####
+https://github.com/grtkrtf/esm_plotting/blob/master/images/figure.png?raw=true
+
+#### `plot_all_elecs.py` ####
+https://github.com/grtkrtf/esm_plotting/blob/master/images/plot_all_elecs.png?raw=true
+
+#### `plot_all_elecs_roi.py` ####
+https://github.com/grtkrtf/esm_plotting/blob/master/images/plot_all_elecs_roi.png?raw=true
+
+#### `plot_brain.py` ####
+https://github.com/grtkrtf/esm_plotting/blob/master/images/plot_brain.png?raw=true
